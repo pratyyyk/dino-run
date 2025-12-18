@@ -1,4 +1,4 @@
-# 🦕 dino-Run
+# 🦕 dino-run
 
 An AI agent that learns to play the Chrome Dino endless runner game using neuroevolution (NEAT).
 
